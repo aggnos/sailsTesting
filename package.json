@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Marina341/WaitingList.git"
+    "url": "git+https://github.com/aggnos/sailsTesting.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Marina341/WaitingList/issues"
+    "url": "https://github.com/aggnos/sailstesting/issues"
   },
-  "homepage": "https://github.com/Marina341/WaitingList#readme"
+  "homepage": "https://github.com/aggnos/sailstesting/issues"
 }
